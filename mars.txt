@@ -1,2 +1,3 @@
+2nd change to this file, will it be auto tracked?
 changing the file now
 This is a Mars text file made in nano because not sure if Notepad ++ will open
